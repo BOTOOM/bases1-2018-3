@@ -35,8 +35,8 @@
 ---
 
 <details>
- <summary><h5>Modelo Fisico</summary>
-<img src="Torneos/diagrama/img/Diagrama E-R.png" >
+ <summary><h5>Entidad - Relacion</summary>
+<img src="Torneos/diagrama/img/Diagrama_E-R.png" >
 </details>
 
 ---
