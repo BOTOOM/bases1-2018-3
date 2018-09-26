@@ -33,4 +33,11 @@
 </details>
 
 ---
+
+<details>
+ <summary><h5>Modelo Fisico</summary>
+<img src="Torneos/diagrama/img/Diagrama E-R.png" >
+</details>
+
+---
 </details>
